@@ -9,7 +9,7 @@ e.g. `python .\checkmypass.py password1 password2` and so on.
 ***
 **_Notes:_**
 _The input password will not be sent over to any servers and remains local on machine._
-Clear the readline text of your terminal once done to delete input terminal input history.
+Clear the readline text of your terminal once done to delete terminal input history.
 
 In PowerShell I ran the following:
 ```powershell
